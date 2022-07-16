@@ -1,0 +1,1 @@
+# Moresand.ImageManipulation
